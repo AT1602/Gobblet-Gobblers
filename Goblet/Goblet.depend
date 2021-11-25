@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1637770728 source:c:\users\alex\desktop\proiect\goblet\main.cpp
+	<iostream>
+	<graphics.h>
+	<winbgim.h>
+
